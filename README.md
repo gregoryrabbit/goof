@@ -1,6 +1,6 @@
 # Goof - Snyk's vulnerable demo app
 [![Known Vulnerabilities](https://snyk.io/test/github/snyk/goof/badge.svg?style=flat-square)](https://snyk.io/test/github/snyk/goof)
-
+[![deepcode](https://www.deepcode.ai/api/gh/badge?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwbGF0Zm9ybTEiOiJnaCIsIm93bmVyMSI6ImdyZWdvcnlyYWJiaXQiLCJyZXBvMSI6Imdvb2YiLCJpbmNsdWRlTGludCI6ZmFsc2UsImF1dGhvcklkIjoyMzQ4MywiaWF0IjoxNjAxOTg3NTUyfQ.G8Stec-OFMoSgWoofKsXPfFaxSxngChl8wcC-QQkIcc)](https://www.deepcode.ai/app/gh/gregoryrabbit/goof/_/dashboard?utm_content=gh%2Fgregoryrabbit%2Fgoof)
 A vulnerable Node.js demo application, based on the [Dreamers Lab tutorial](http://dreamerslab.com/blog/en/write-a-todo-list-with-express-and-mongodb/).
 
 ## Features
